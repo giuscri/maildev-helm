@@ -7,14 +7,14 @@
 To install the repo just run:
 
 ```bash
-helm repo add maildev https://maildev.github.io/helm/
+helm repo add maildev-giuscri https://giuscri.github.io/maildev-helm/
 helm repo update
 ```
 
 ## Helm Charts
 
-* [maildev](https://maildev.github.io/helm/)
+* [maildev](https://giuscri.github.io/maildev-helm/)
 
   ```bash
-  helm install my-release maildev/maildev
+  helm install my-release maildev-giuscri/maildev
   ```

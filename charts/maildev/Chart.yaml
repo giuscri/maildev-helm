@@ -14,12 +14,10 @@ keywords:
 - development
 - developer-tools
 - nodejs
-home: https://maildev.github.io/maildev/
+home: https://giuscri.github.io/maildev/
 icon: https://avatars1.githubusercontent.com/u/26743469
 sources:
-- https://github.com/maildev/helm
+- https://github.com/giuscri/maildev-helm
 maintainers:
-- name: jtudelag
-  email: jtudelag@users.noreply.github.com
-- name: splitt3r
-  email: splitt3r@users.noreply.github.com
+- name: giuscri
+  email: giuscri@users.noreply.github.com
